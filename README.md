@@ -16,9 +16,9 @@ Our project group ID is **SE-S2-WE-11**, and the members involved in this projec
 
 ## Personas
 
-![Persona-IT21809088](https://github.com/RadithSandeepa/seasavers/blob/main/docs/personas/IT21809088-User-Persona.png)
-
 ![Persona-IT21220760](https://github.com/RadithSandeepa/seasavers/blob/main/docs/personas/IT21220760-User-Persona.png)
+
+![Persona-IT21809088](https://github.com/RadithSandeepa/seasavers/blob/main/docs/personas/IT21809088-User-Persona.png)
 
 <a id="Empathy-Maps"></a>
 
