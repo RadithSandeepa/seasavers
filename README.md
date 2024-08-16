@@ -13,34 +13,39 @@ Our project group ID is **SE-S2-WE-11**, and the members involved in this projec
 - [Service Blueprint](#Service-Blueprint)
 
 <a id="Personas"></a>
+
 ## Personas
 
 ![Persona-IT21809088](https://github.com/RadithSandeepa/seasavers/blob/main/docs/personas/IT21809088-User-Persona.png)
 
+![Persona-IT21220760](https://github.com/RadithSandeepa/seasavers/blob/main/docs/personas/IT21220760-User-Persona.png)
 
 <a id="Empathy-Maps"></a>
+
 ## Empathy Maps
 
 ![Empathy Map-IT21809088](https://github.com/RadithSandeepa/seasavers/blob/main/docs/empathy-maps/IT21809088-Empathy-Map.png)
 
+![Empathy Map-IT21220760](https://github.com/RadithSandeepa/seasavers/blob/main/docs/empathy-maps/IT21220760-Empathy-Map.png)
 
 <a id="User-Stories"></a>
+
 ## User Stories
 
 ![User Story-IT21809088](https://github.com/RadithSandeepa/seasavers/blob/main/docs/user-stories/IT21809088-User-Story.png)
 
+![User Story-IT21220760](https://github.com/RadithSandeepa/seasavers/blob/main/docs/user-stories/IT21220760-User-Story.png)
 
 <a id="User-Flows"></a>
+
 ## User Flows
 
 ![User Flow-IT21809088](https://github.com/RadithSandeepa/seasavers/blob/main/docs/user-flows/IT21809088-User-Flow.png)
 
+![User Flow-IT21220760](https://github.com/RadithSandeepa/seasavers/blob/main/docs/user-flows/IT21220760-User-Flow.png)
 
 <a id="Service-Blueprint"></a>
+
 ## Service Blueprint
 
 ![Service Blueprint-IT21809088](https://github.com/RadithSandeepa/seasavers/blob/main/docs/service-blueprint/IT21809088-Service-Blueprint.png)
-
-
-
-
