@@ -4,5 +4,3 @@ In a time when environmental conservation is more crucial than ever, having a de
 
 Our project group ID is **SE-S2-WE-11**, and the members involved in this project are **IT21809088, IT21220760, IT21816086, and IT19211688**.
 
-
-
